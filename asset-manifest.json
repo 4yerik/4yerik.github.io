@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ReactWebsite/static/css/main.0b91d65e.chunk.css",
-    "main.js": "/ReactWebsite/static/js/main.90bfae55.chunk.js",
-    "main.js.map": "/ReactWebsite/static/js/main.90bfae55.chunk.js.map",
-    "runtime-main.js": "/ReactWebsite/static/js/runtime-main.29abe95b.js",
-    "runtime-main.js.map": "/ReactWebsite/static/js/runtime-main.29abe95b.js.map",
-    "static/css/2.afd40c00.chunk.css": "/ReactWebsite/static/css/2.afd40c00.chunk.css",
-    "static/js/2.731817c0.chunk.js": "/ReactWebsite/static/js/2.731817c0.chunk.js",
-    "static/js/2.731817c0.chunk.js.map": "/ReactWebsite/static/js/2.731817c0.chunk.js.map",
-    "index.html": "/ReactWebsite/index.html",
-    "precache-manifest.875cdf7bc509d3b4a33b41a5a69485af.js": "/ReactWebsite/precache-manifest.875cdf7bc509d3b4a33b41a5a69485af.js",
-    "service-worker.js": "/ReactWebsite/service-worker.js",
-    "static/css/2.afd40c00.chunk.css.map": "/ReactWebsite/static/css/2.afd40c00.chunk.css.map",
-    "static/css/main.0b91d65e.chunk.css.map": "/ReactWebsite/static/css/main.0b91d65e.chunk.css.map",
-    "static/js/2.731817c0.chunk.js.LICENSE.txt": "/ReactWebsite/static/js/2.731817c0.chunk.js.LICENSE.txt"
+    "main.css": "/4yerik.github.io/static/css/main.0b91d65e.chunk.css",
+    "main.js": "/4yerik.github.io/static/js/main.29c71f00.chunk.js",
+    "main.js.map": "/4yerik.github.io/static/js/main.29c71f00.chunk.js.map",
+    "runtime-main.js": "/4yerik.github.io/static/js/runtime-main.72f8799c.js",
+    "runtime-main.js.map": "/4yerik.github.io/static/js/runtime-main.72f8799c.js.map",
+    "static/css/2.afd40c00.chunk.css": "/4yerik.github.io/static/css/2.afd40c00.chunk.css",
+    "static/js/2.83b86ba7.chunk.js": "/4yerik.github.io/static/js/2.83b86ba7.chunk.js",
+    "static/js/2.83b86ba7.chunk.js.map": "/4yerik.github.io/static/js/2.83b86ba7.chunk.js.map",
+    "index.html": "/4yerik.github.io/index.html",
+    "precache-manifest.4bb1c02c07e1cc6fef873f1ab59f4664.js": "/4yerik.github.io/precache-manifest.4bb1c02c07e1cc6fef873f1ab59f4664.js",
+    "service-worker.js": "/4yerik.github.io/service-worker.js",
+    "static/css/2.afd40c00.chunk.css.map": "/4yerik.github.io/static/css/2.afd40c00.chunk.css.map",
+    "static/css/main.0b91d65e.chunk.css.map": "/4yerik.github.io/static/css/main.0b91d65e.chunk.css.map",
+    "static/js/2.83b86ba7.chunk.js.LICENSE.txt": "/4yerik.github.io/static/js/2.83b86ba7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29abe95b.js",
+    "static/js/runtime-main.72f8799c.js",
     "static/css/2.afd40c00.chunk.css",
-    "static/js/2.731817c0.chunk.js",
+    "static/js/2.83b86ba7.chunk.js",
     "static/css/main.0b91d65e.chunk.css",
-    "static/js/main.90bfae55.chunk.js"
+    "static/js/main.29c71f00.chunk.js"
   ]
 }
